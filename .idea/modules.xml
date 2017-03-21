@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/micro-service-skeleton.iml" filepath="$PROJECT_DIR$/.idea/modules/micro-service-skeleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-api/vimond-micro-service-skeleton-api.iml" filepath="$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-api/vimond-micro-service-skeleton-api.iml" group="vimond-micro-service-skeleton-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-api/vimond-micro-service-skeleton-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-api/vimond-micro-service-skeleton-api_main.iml" group="vimond-micro-service-skeleton-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-api/vimond-micro-service-skeleton-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-api/vimond-micro-service-skeleton-api_test.iml" group="vimond-micro-service-skeleton-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-service/vimond-micro-service-skeleton-service.iml" filepath="$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-service/vimond-micro-service-skeleton-service.iml" group="vimond-micro-service-skeleton-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-service/vimond-micro-service-skeleton-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-service/vimond-micro-service-skeleton-service_main.iml" group="vimond-micro-service-skeleton-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-service/vimond-micro-service-skeleton-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vimond-micro-service-skeleton-service/vimond-micro-service-skeleton-service_test.iml" group="vimond-micro-service-skeleton-service" />
+    </modules>
+  </component>
+</project>
